@@ -31,3 +31,23 @@ https://dribbble.com/
 
 4. Prompts Usados - IA usada: Claude Code
   1. Gere um html e um css de uma landing page de investimentos para mulheres, seguindo estas referencias de cores e designs: ----- informações acima usadas no prompt 
+  2. Adicione alguns efeitos leves nos icones e botões, e um hover rosa nos textos
+
+
+5. Conclusões e considerações finais
+No geral, eu gosto do vibecoding pq ele quebra um galho em situações de baixa prioridade, mas obviamente não substitui um pensamento crítico de um dev.
+
+Ao todo, foram usados apenas dois prompts. Gosto bastante do Claude code pq ele é direto e consegue criar as landing pages sem inventar coisas, como o Chatgpt, por exemplo.
+
+Apesar da atividade ser sobre vibecoding, eu tentei ao máximo fugir de designc com cara de IA: muitas texturas, muitos gradientes pesados, milhões de efeitos diferentes e o principal: a cor roxa.
+Todas as minhas ideias de design foram usadas na atividade:
+   -Claymorphism: Em pequenos botões com números e abrir conta, por exemplo.
+   -Flat Design: Icones limpos e tipografia simples, sem usar diversas fontes diferentes.
+   -Glassmorphism: Usado na maioria dos botões, com efeito de vidro ao passar o cursor.
+   -Calm UI: Na minha interpretação isso entra bastante na questão antes comentada, de evitar o uso de gradientes e texturas pesadas justamente para evitar a fadiga cognitiva do usuário.
+   -Bento Grid: Usado na segunda seção da página, onde a gente pode ver a aplicação perfeita dele.
+   -Efeitos: Uso de efeitos limpos, como hover rosa, efeito Boing nos icones e etc.
+
+Eu genuinamente gostei da atividade, acho que querendo ou não a IA já faz parte de nossas vidas tem bastante tempo, e é importante que nós saibamos usá-la.
+
+Pensei em uma página de investimentos financeiros voltada para mulheres, é uma ideia que foge do óbvio e combinou bastante com as cores escolhidas.
