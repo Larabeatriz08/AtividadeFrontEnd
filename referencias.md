@@ -11,7 +11,7 @@
 
 
 2. Sites de referência
-<!-- * Válido o ressalte que eu não foquei em nenhum dos designs. Desenhei na minha cabeça como ficaria de acordo com as inspos de design que citei abaixo.  -->
+<!-- * Válido o ressalte que eu não foquei 100% em nenhum dos designs. Desenhei na minha cabeça como ficaria de acordo com as inspos de design que citei abaixo.  -->
 
 https://pt.squarespace.com/
 https://www.figma.com/
@@ -39,14 +39,14 @@ No geral, eu gosto do vibecoding pq ele quebra um galho em situações de baixa 
 
 Ao todo, foram usados apenas dois prompts. Gosto bastante do Claude code pq ele é direto e consegue criar as landing pages sem inventar coisas, como o Chatgpt, por exemplo.
 
-Apesar da atividade ser sobre vibecoding, eu tentei ao máximo fugir de designc com cara de IA: muitas texturas, muitos gradientes pesados, milhões de efeitos diferentes e o principal: a cor roxa.
+Apesar da atividade ser sobre vibecoding, eu tentei ao máximo fugir de designs com cara de IA: muitas texturas, muitos gradientes pesados, milhões de efeitos diferentes e o principal: a cor roxa.
 Todas as minhas ideias de design foram usadas na atividade:
-   -Claymorphism: Em pequenos botões com números e abrir conta, por exemplo.
-   -Flat Design: Icones limpos e tipografia simples, sem usar diversas fontes diferentes.
-   -Glassmorphism: Usado na maioria dos botões, com efeito de vidro ao passar o cursor.
-   -Calm UI: Na minha interpretação isso entra bastante na questão antes comentada, de evitar o uso de gradientes e texturas pesadas justamente para evitar a fadiga cognitiva do usuário.
-   -Bento Grid: Usado na segunda seção da página, onde a gente pode ver a aplicação perfeita dele.
-   -Efeitos: Uso de efeitos limpos, como hover rosa, efeito Boing nos icones e etc.
+   - Claymorphism: Em pequenos botões com números e abrir conta, por exemplo.
+   - Flat Design: Icones limpos e tipografia simples, sem usar diversas fontes diferentes.
+   - Glassmorphism: Usado na maioria dos botões, com efeito de vidro ao passar o cursor.
+   - Calm UI: Na minha interpretação isso entra bastante na questão antes comentada, de evitar o uso de gradientes e texturas pesadas justamente para evitar a fadiga cognitiva do usuário.
+   - Bento Grid: Usado na segunda seção da página, onde a gente pode ver a aplicação perfeita dele.
+   - Efeitos: Uso de efeitos limpos, como hover rosa, efeito Boing nos icones e etc.
 
 Eu genuinamente gostei da atividade, acho que querendo ou não a IA já faz parte de nossas vidas tem bastante tempo, e é importante que nós saibamos usá-la.
 
