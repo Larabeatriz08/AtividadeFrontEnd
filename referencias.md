@@ -23,10 +23,10 @@ https://dribbble.com/
 
 3. Referências de Design
 - Glassmorphism: design baseado em vidros. Usados, no meu caso para design de botôes para a landing page.
--Claymorphism: Design com estilo de massinha de modelar. Usados, no meu caso, para pequenos botões e detalhes mais simples.
--Flat Design: Estilo suave, sem sombras complexas ou gradientes pesado. Usados, no meu caso, com foco em cores sólidas, tipografia clara e e iconografia simples.
--Calm UI: Uso de telas limpas e foco na redução da fadiga cognitiva.
--Bento Grid: Usa como inspiração as caixas de comidas japonesas (marmitas Bento), e organiza em blocos modulares de tamanhos diferentes, mas perfeitamente encaixados.
+- Claymorphism: Design com estilo de massinha de modelar. Usados, no meu caso, para pequenos botões e detalhes mais simples.
+- Flat Design: Estilo suave, sem sombras complexas ou gradientes pesado. Usados, no meu caso, com foco em cores sólidas, tipografia clara e iconografia simples.
+- Calm UI: Uso de telas limpas e foco na redução da fadiga cognitiva.
+- Bento Grid: Usa como inspiração as caixas de comidas japonesas (marmitas Bento), e organiza em blocos modulares de tamanhos diferentes, mas perfeitamente encaixados.
 
 
 4. Prompts Usados - IA usada: Claude Code
